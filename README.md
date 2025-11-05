@@ -1,0 +1,1 @@
+Just a toy example, aiming for fine tunning a pre trained model on a large data set (image net), and giving the bases to perform fine tunning, partial fine tunning and considering the warm up stage. Just modify the number of epochs to and re run the project!
